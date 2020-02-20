@@ -1,5 +1,5 @@
 # Huffman-Compression-Algorithm
-as a project during databases and algorithims course we were asked to imlpement the Huffman compression code using java 
+as a project during databases and algorithms course we were asked to imlpement the Huffman compression code using java 
 
 Also known as Huffman encoding, an algorithm for the lossless compression of files based on the frequency of occurrence of 
 a symbol in the file that is being compressed. The Huffman algorithm is based on statistical coding, which means that the 
