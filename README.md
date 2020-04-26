@@ -1,5 +1,5 @@
 # Huffman-Compression-Algorithm
-as a project during datab structures and algorithms course we were asked to imlpement the Huffman compression code using java 
+as a project during data structures and algorithms course we were asked to imlpement the Huffman compression code using java 
 
 Also known as Huffman encoding, an algorithm for the lossless compression of files based on the frequency of occurrence of 
 a symbol in the file that is being compressed. The Huffman algorithm is based on statistical coding, which means that the 
@@ -19,7 +19,7 @@ XXXXXXYYYYZZ
 
 the frequency of "X" is 6, the frequency of "Y" is 4, and the frequency of "Z" is 2. If each character is represented using 
 a fixed-length code of two bits, then the number of bits required to store this file would be 24, 
-i.e., (2 x 6) + (2x 4) + (2x 2) = 24.
+i.e., (2 x 6) + (2 x 4) + (2 x 2) = 24.
 
 If the above data were compressed using Huffman compression, the more frequently occurring numbers would be represented 
 by smaller bits, such as:
