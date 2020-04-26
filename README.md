@@ -35,3 +35,6 @@ in the final compressed file.
 Huffman compression was named after its discoverer, David Huffman.
 
 you can replace the html file with any other file and try to compress it 
+
+
+https://en.wikipedia.org/wiki/Huffman_coding
